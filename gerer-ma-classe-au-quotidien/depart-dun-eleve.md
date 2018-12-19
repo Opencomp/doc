@@ -1,0 +1,2 @@
+# Départ d'un élève
+
