@@ -21,7 +21,7 @@ Connectez-vous ensuite à votre boîte de messagerie électronique pour ouvrir l
 {% hint style="info" %}
 **Pourquoi envoyons-nous un email ?**
 
-Nous envoyons un email afin de nous assurer que vous êtes bien propriétaire de l'adresse de courrier électronique indiquée. Puisque vous devez cliquer sur le lien de confirmation, cela empêche quelqu'un d'autre que vous de vous inscrire sans votre contentement.
+Nous envoyons un email afin de nous assurer que vous êtes bien propriétaire de l'adresse de courrier électronique indiquée. Puisque vous devez cliquer sur le lien de confirmation, cela empêche quelqu'un d'autre que vous de vous inscrire sans votre consentement.
 {% endhint %}
 
 Une fois le message affiché, cliquez sur le bouton **Activez votre compte ici** pour confirmer votre inscription.
