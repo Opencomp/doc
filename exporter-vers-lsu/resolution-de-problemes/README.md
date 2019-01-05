@@ -10,7 +10,9 @@ Vous trouverez dans les pages ci-dessous des solutions pour rÃ©soudre les problÃ
 
 {% page-ref page="classe-non-trouvee.md" %}
 
+{% page-ref page="periodes-non-parametrees.md" %}
+
 {% page-ref page="dates-periodes-incoherentes.md" %}
 
-### Erreur 316 - 
+### 
 
