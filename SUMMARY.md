@@ -34,6 +34,7 @@
   * [Exporter depuis Opencomp](exporter-vers-lsu/exporter-depuis-opencomp.md)
   * [Importer dans LSU](exporter-vers-lsu/importer-dans-lsu.md)
   * [Résolution de problèmes](exporter-vers-lsu/resolution-de-problemes/README.md)
+    * [Paramétrage incohérent](exporter-vers-lsu/resolution-de-problemes/parametrage-incoherent.md)
     * [Classe non trouvée](exporter-vers-lsu/resolution-de-problemes/classe-non-trouvee.md)
     * [Périodes non paramétrées](exporter-vers-lsu/resolution-de-problemes/periodes-non-parametrees.md)
     * [Dates périodes incohérentes](exporter-vers-lsu/resolution-de-problemes/dates-periodes-incoherentes.md)

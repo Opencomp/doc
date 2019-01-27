@@ -2,17 +2,17 @@
 
 Dans cette page, nous détaillerons les principales erreurs pouvant se produire et la façon de les résoudre.
 
-## Bilans rejetés
+## Messages d'erreur \(bilans rejetés\)
 
-Lorsqu'un bilan est rejeté, cela signifie qu'il manque des informations ou qu'il contient des informations invalides.
+Lorsqu'un bilan est rejeté, cela signifie qu'il manque des informations ou qu'il contient des informations invalides. Il est également possible que le bilan soit rejeté car le paramétrage initial de LSU n'a pas été réalisé.
 
 Vous trouverez dans les pages ci-dessous des solutions pour résoudre les problèmes suivants :
 
-{% page-ref page="classe-non-trouvee.md" %}
+{% page-ref page="parametrage-incoherent.md" %}
 
 {% page-ref page="periodes-non-parametrees.md" %}
 
 {% page-ref page="dates-periodes-incoherentes.md" %}
 
-### 
+{% page-ref page="classe-non-trouvee.md" %}
 

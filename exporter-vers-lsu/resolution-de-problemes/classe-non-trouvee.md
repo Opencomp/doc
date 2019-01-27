@@ -1,6 +1,10 @@
 # Classe non trouvée
 
-Dans la plupart des cas, cette erreur se produit si vous avez renseigné un identifiant ONDE pour votre classe qui est incorrect. Assurez vous que l'identifiant ONDE de votre classe dans Opencomp est correct.
+{% hint style="danger" %}
+La classe référencée dans le bilan de l'élève **NOM PRÉNOM \(CLASSE\)** pour la période **INDICE\_PÉRIODE / NB\_PÉRIODES \( ANNÉE\_SCOLAIRE \)** est inconnue dans la base de données ONDE. Vérifiez les données dans ONDE, puis le logiciel d'évaluation.
+{% endhint %}
+
+Cette erreur se produit si vous avez renseigné un identifiant ONDE pour votre classe qui est incorrect. Assurez vous que l'identifiant ONDE de votre classe renseigné dans Opencomp est correct.
 
 ## **Récupérer l'identifiant classe de ma classe dans ONDE**
 
