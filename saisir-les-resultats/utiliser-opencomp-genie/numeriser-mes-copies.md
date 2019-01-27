@@ -6,9 +6,9 @@ Pour numériser vos copies afin de les faire reconnaître par Opencomp Genie, no
 
 La majorité des copieurs désormais installés dans les établissements scolaires permettent de numériser sur une clé USB et disposent d'un chargeur automatique de documents vous permettant de numériser l'ensemble de vos copies en une seule fois.
 
-{% hint style="info" %}
-[Voir cette vidéo d'exemple de numérisation vers USB avec une solution d'impression](https://player.vimeo.com/video/164273945)
-{% endhint %}
+### Exemple de numérisation vers USB
+
+{% embed url="https://player.vimeo.com/video/164273945" caption="Exemple de numérisation vers USB \(Konica Minolta\)" %}
 
 ### Comment numériser vers USB en utilisant le chargeur automatique de documents ?
 
