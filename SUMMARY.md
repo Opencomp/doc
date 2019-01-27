@@ -16,6 +16,7 @@
   * [Saisir à la souris](saisir-les-resultats/saisir-a-la-souris.md)
   * [Saisir avec des codes à barres](saisir-les-resultats/saisir-avec-des-codes-a-barres.md)
   * [Utiliser Opencomp Genie](saisir-les-resultats/utiliser-opencomp-genie/README.md)
+    * [Installer le logiciel](saisir-les-resultats/utiliser-opencomp-genie/installer-le-logiciel.md)
     * [Numériser mes copies](saisir-les-resultats/utiliser-opencomp-genie/numeriser-mes-copies.md)
     * [Détecter les résultats](saisir-les-resultats/utiliser-opencomp-genie/detecter-les-resultats.md)
 * [Analyser les résultats](analyser-les-resultats.md)
@@ -41,4 +42,8 @@
 
 * [Extraire les élèves depuis ONDE](aide-onde-directeurs/extraire-les-eleves-depuis-onde.md)
 * [Récupérer l'id ONDE d'une classe](aide-onde-directeurs/recuperer-lid-onde-dune-classe.md)
+
+## Questions fréquentes
+
+* [Gérer mon abonnement](foire-aux-questions/gerer-mon-abonnement.md)
 
