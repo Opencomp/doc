@@ -23,11 +23,11 @@ Une fois en possession d'[un fichier PDF contenant la numérisation de vos copie
 
 | Code / couleur | Description |
 | :--- | :--- |
-| DE \(bleu\) | Dépassé détecté |
-| A \(vert\) | Atteint détecté |
-| PA \(orange\) | Partiellement atteint détecté |
-| NA \(rouge\) | Non atteint détecté |
-| ! \(rouge\) | Nombre de connaissances et compétences évaluées détecté différent du nombre défini dans Opencomp \(la copie est ignorée\) |
-| ? \(gris\) | Le logiciel n'a pas été en mesure de détecter le résultat \(ou vous avez coché deux résultats\). |
-| ∅ \(beige\) | Vous avez oublié de corriger pour cette connaissance/compétence évaluée. |
+| DE \(bleu\) | Résultat "**Dépassé**" détecté |
+| A \(vert\) | Résultat "**Atteint**" détecté |
+| PA \(orange\) | Résultat "**Partiellement atteint**" détecté |
+| NA \(rouge\) | Résultat "**Non atteint**" détecté |
+| ! \(rouge\) | **Nombre de connaissances et compétences évaluées** **détecté** **différent du nombre défini dans Opencomp** \(la copie est ignorée\) |
+| ? \(gris\) | Le logiciel n'a **pas été en mesure de détecter le résultat** \(ou vous avez coché deux résultats\). |
+| ∅ \(beige\) | Vous avez **oublié de corriger** pour cette connaissance/compétence évaluée. |
 
