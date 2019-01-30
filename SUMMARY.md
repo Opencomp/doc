@@ -20,6 +20,7 @@
       * [Windows](saisir-les-resultats/utiliser-opencomp-genie/installer-le-logiciel/windows.md)
       * [OS X et macOS](saisir-les-resultats/utiliser-opencomp-genie/installer-le-logiciel/macos.md)
       * [GNU/Linux](saisir-les-resultats/utiliser-opencomp-genie/installer-le-logiciel/gnu-linux.md)
+    * [Définir votre clé d'API](saisir-les-resultats/utiliser-opencomp-genie/definir-votre-cle-dapi.md)
     * [Numériser mes copies](saisir-les-resultats/utiliser-opencomp-genie/numeriser-mes-copies.md)
     * [Détecter les résultats](saisir-les-resultats/utiliser-opencomp-genie/detecter-les-resultats.md)
 * [Analyser les résultats](analyser-les-resultats.md)
