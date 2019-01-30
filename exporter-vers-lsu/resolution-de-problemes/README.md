@@ -10,9 +10,9 @@ Vous trouverez dans les pages ci-dessous des solutions pour rÃ©soudre les problÃ
 
 {% page-ref page="parametrage-incoherent.md" %}
 
+{% page-ref page="classe-non-trouvee.md" %}
+
 {% page-ref page="periodes-non-parametrees.md" %}
 
 {% page-ref page="dates-periodes-incoherentes.md" %}
-
-{% page-ref page="classe-non-trouvee.md" %}
 

@@ -1,0 +1,38 @@
+---
+description: >-
+  Apprenez comment installer le logiciel compagnon Opencomp Genie sur OS X ou
+  macOS.
+---
+
+# OS X et macOS
+
+## 1. Télécharger
+
+Rendez-vous à l'adresse [https://genie.opencomp.fr](https://genie.opencomp.fr) et cliquez sur le bouton **Télécharger Opencomp Genie \[...\] pour macOS**. 
+
+## 2. Installer
+
+![Glissez l&apos;ic&#xF4;ne d&apos;Opencomp Genie vers votre dossier &quot;Applications&quot;.](../../../.gitbook/assets/drag-to-app-folder.gif)
+
+## 3. Lancer
+
+* Cliquez sur la première icône de votre **Dock** pour lancer l'application **Finder**.
+* Dans la barre latérale du **Finder**, sélectionnez **Applications** dans la section **Favoris**.
+* Double-cliquez sur l'application **Opencomp Genie** pour la lancer.
+
+### Autoriser l'exécution pour la première fois
+
+{% hint style="info" %}
+Lors de la première ouverture, vous devrez valider la fenêtre de sécurité de Gatekeeper.
+{% endhint %}
+
+{% tabs %}
+{% tab title="macOS 10.14 et supérieur" %}
+![Cliquez sur &quot;Ouvrir&quot; pour lancer Opencomp Genie pour la premi&#xE8;re fois.](../../../.gitbook/assets/gatekeeper-10-14.png)
+{% endtab %}
+
+{% tab title="macOS 10.13 et antérieur" %}
+![Cliquez sur &quot;Ouvrir&quot; pour lancer Opencomp Genie pour la premi&#xE8;re fois.](../../../.gitbook/assets/gatekeeper-10-13.png)
+{% endtab %}
+{% endtabs %}
+
