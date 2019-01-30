@@ -16,7 +16,7 @@ Recherchez **Opencomp Genie** dans le Microsoft Store ou accédez à l'URL suiva
 
 Rendez-vous à l'adresse [https://genie.opencomp.fr](https://genie.opencomp.fr) et cliquez sur le bouton **Télécharger Opencomp Genie \[...\] pour Windows**. 
 
-Si vous souhaitez télécharger la version GNU/Linux du logiciel depuis un ordinateur n'exécutant pas Windows, vous pouvez utiliser le lien suivant : [https://genie.opencomp.fr/opencomp-genie-install.exe](https://genie.opencomp.fr/opencomp-genie-install.exe)
+Si vous souhaitez télécharger la version Windows du logiciel depuis un ordinateur n'exécutant pas Windows, vous pouvez utiliser le lien suivant : [https://genie.opencomp.fr/opencomp-genie-install.exe](https://genie.opencomp.fr/opencomp-genie-install.exe)
 
 ### 2. Autoriser l'exécution
 
