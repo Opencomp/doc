@@ -12,6 +12,11 @@ Rendez-vous à l'adresse [https://genie.opencomp.fr](https://genie.opencomp.fr) 
 
 ## 2. Installer
 
+* Cliquez sur la première icône de votre **Dock** pour lancer l'application **Finder**.
+* Dans la barre latérale du **Finder**, sélectionnez **Téléchargements** dans la section **Favoris**.
+* Double-cliquez sur le fichier **Opencomp-Genie-\[xxxx.x.x.x\].dmg**  pour ouvrir l'image disque précédemment téléchargée depuis le site.
+* **Glissez** l'icône d'**Opencomp Genie** vers votre dossier "**Applications**".
+
 ![Glissez l&apos;ic&#xF4;ne d&apos;Opencomp Genie vers votre dossier &quot;Applications&quot;.](../../../.gitbook/assets/drag-to-app-folder.gif)
 
 ## 3. Lancer
