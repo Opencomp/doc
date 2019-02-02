@@ -14,7 +14,7 @@ La majorité des copieurs désormais installés dans les établissements scolair
 
 L'interface utilisateur vous permettant de définir les réglages afin de numériser vos copies vers une clé USB varie d'une marque à l'autre.
 
-Nous vous recommandons de vous référer à la notice d'utilisation de votre solution d'impression. La plupart des marquent permettent de télécharger la notice de votre appareil depuis leur site de support/assistance.
+Nous vous recommandons de vous référer à la notice d'utilisation de votre solution d'impression. La plupart des marques permettent de télécharger la notice de votre appareil depuis leur site de support/assistance.
 
 * [Support et assistance Brother](http://support.brother.com/g/b/productsearch.aspx?c=fr&lang=fr&content=ml)
 * [Support et assistance Canon](https://www.canon.fr/support/business-product-support/)

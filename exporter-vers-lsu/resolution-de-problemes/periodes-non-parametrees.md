@@ -1,12 +1,16 @@
 # Périodes non paramétrées
 
+## Message d'erreur
+
 {% hint style="danger" %}
 Veuillez effectuer le paramétrage des périodes pour la classe **LIBELLE\_CLASSE \(&lt;id=ID\_CLASSE&gt;\)**.
 {% endhint %}
 
+## Pourquoi ?
+
 La classe pour laquelle vous essayez d'importer les bilans n'a pas été associée à une périodicité dans LSU.
 
-Consulter la page ci-dessous pour en savoir plus sur la procédure à suivre :
+## Solution
 
 {% page-ref page="../avant-dexporter/parametrer-les-periodes-dans-lsu.md" %}
 

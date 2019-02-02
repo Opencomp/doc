@@ -42,6 +42,7 @@
     * [Classe non trouvée](exporter-vers-lsu/resolution-de-problemes/classe-non-trouvee.md)
     * [Périodes non paramétrées](exporter-vers-lsu/resolution-de-problemes/periodes-non-parametrees.md)
     * [Dates périodes incohérentes](exporter-vers-lsu/resolution-de-problemes/dates-periodes-incoherentes.md)
+    * [Enseignant inconnu](exporter-vers-lsu/resolution-de-problemes/enseignant-inconnu.md)
 
 ## Aide ONDE \(directeurs\)
 

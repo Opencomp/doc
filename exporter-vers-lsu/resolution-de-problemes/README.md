@@ -16,3 +16,9 @@ Vous trouverez dans les pages ci-dessous des solutions pour résoudre les probl�
 
 {% page-ref page="dates-periodes-incoherentes.md" %}
 
+## Messages d'avertissement \(bilans importés\)
+
+Les messages d'avertissement n'empêchent pas l'import mais portent simplement à votre attention des éléments potentiellements importants.
+
+{% page-ref page="enseignant-inconnu.md" %}
+
