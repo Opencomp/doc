@@ -6,7 +6,7 @@ description: >-
 
 # Imprimer mon évaluation
 
-1. Depuis le tableau de bord, cliquez sur le bouton [**É**](https://fr.wikipedia.org/wiki/%C3%89)**valuations** dans la section **Accès rapide** de votre classe.
+1. Depuis le tableau de bord, cliquez sur le bouton **Évaluations** dans la section **Accès rapide** de votre classe.
 2. Depuis la liste des évaluations, cliquez sur le titre de l'évaluation pour accéder au **Contenu de l'évaluation**.
 
 {% tabs %}
