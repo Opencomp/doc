@@ -40,5 +40,7 @@ Vous n'êtes pas obligé d'ajouter des exercices à une évaluation. Vous pouvez
 
 #### Insérer des réglures Seyès
 
-[Découvrez cette fonctionnalité en vidéo](https://www.youtube.com/watch?v=21BgZaLM9os)
+{% embed url="https://www.youtube.com/watch?v=21BgZaLM9os" %}
+
+
 
