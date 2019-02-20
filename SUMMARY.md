@@ -28,6 +28,10 @@
     * [Détecter les résultats](saisir-les-resultats/utiliser-opencomp-genie/detecter-les-resultats.md)
 * [Analyser les résultats](analyser-les-resultats.md)
 * [Rédiger les appréciations](rediger-les-appreciations.md)
+* [Imprimer les synthèses et bilans](imprimer-les-syntheses-et-bilans/README.md)
+  * [Synthèses périodiques](imprimer-les-syntheses-et-bilans/syntheses-periodiques.md)
+  * [Résultats détaillés](imprimer-les-syntheses-et-bilans/detail-des-resultats.md)
+  * [Bilans périodiques type "LSU"](imprimer-les-syntheses-et-bilans/bilan-periodique-type-lsu.md)
 * [Gérer ma classe au quotidien](gerer-ma-classe-au-quotidien/README.md)
   * [Saisir les INE de mes élèves](gerer-ma-classe-au-quotidien/saisir-les-ine-de-mes-eleves.md)
   * [Modifier l'identifiant ONDE](gerer-ma-classe-au-quotidien/modifier-lidentifiant-onde.md)
@@ -57,4 +61,11 @@
 ## Questions fréquentes
 
 * [Gérer mon abonnement](foire-aux-questions/gerer-mon-abonnement.md)
+
+## API REST \(développeurs\)
+
+* [Présentation de l'API REST](api-rest-developpeurs/presentation.md)
+* [Points de terminaison](api-rest-developpeurs/points-de-terminaison/README.md)
+  * [Nomenclatures](api-rest-developpeurs/points-de-terminaison/api-rest-nomenclatures.md)
+  * [Classes](api-rest-developpeurs/points-de-terminaison/api-rest.md)
 
