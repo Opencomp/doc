@@ -6,9 +6,9 @@ Avant d'exporter, vérifiez tout d'abord les prérequis nécessaires à l'export
 
 Assurez vous \(en début d'année uniquement\) que LSU est correctement paramétré pour une utilisation avec un logiciel tiers \(comme Opencomp\).
 
-{% page-ref page="parametrer-les-periodes-dans-lsu.md" %}
+{% page-ref page="parametrer-lsu/parametrer-les-periodes-dans-lsu.md" %}
 
-{% page-ref page="parametrer-les-classes-en-import-editeur-dans-lsu.md" %}
+{% page-ref page="parametrer-lsu/parametrer-import-editeur-lsu.md" %}
 
 
 

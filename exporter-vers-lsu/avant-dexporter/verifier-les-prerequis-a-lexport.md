@@ -1,4 +1,4 @@
-# Vérifier les prérequis à l'export
+# Vérifier les prérequis à l'export dans Opencomp
 
 Pour la classe :
 

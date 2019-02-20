@@ -16,5 +16,5 @@ Modifiez le paramétrage des classes concernées dans LSU pour positionner leur 
 
 Consulter la page ci-dessous pour en savoir plus sur la procédure à suivre :
 
-{% page-ref page="../avant-dexporter/parametrer-les-classes-en-import-editeur-dans-lsu.md" %}
+{% page-ref page="../avant-dexporter/parametrer-lsu/parametrer-import-editeur-lsu.md" %}
 

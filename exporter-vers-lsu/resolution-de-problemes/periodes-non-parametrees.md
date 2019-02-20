@@ -12,7 +12,7 @@ La classe pour laquelle vous essayez d'importer les bilans n'a pas été associ�
 
 ## Solution
 
-{% page-ref page="../avant-dexporter/parametrer-les-periodes-dans-lsu.md" %}
+{% page-ref page="../avant-dexporter/parametrer-lsu/parametrer-les-periodes-dans-lsu.md" %}
 
 {% hint style="info" %}
 Cette erreur se produit également systématiquement si l'erreur **Classe non trouvée** a été remontée. Si l'erreur **Classe non trouvée** est également remontée, commencez par résoudre l'erreur **Classe non trouvée** et réessayez.
