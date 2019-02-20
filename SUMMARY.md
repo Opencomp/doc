@@ -14,6 +14,7 @@
     * [Importer un exercice](creer-mes-evaluations/creer-mes-exercices/importer-un-exercice.md)
   * [Modifier les éléments insérés](creer-mes-evaluations/modifier-les-elements-inseres.md)
   * [Imprimer mon évaluation](creer-mes-evaluations/imprimer-mon-evaluation.md)
+  * [Partager mon évaluation](creer-mes-evaluations/partager-mon-evaluation.md)
 * [Saisir les résultats](saisir-les-resultats/README.md)
   * [Saisir à la souris](saisir-les-resultats/saisir-a-la-souris.md)
   * [Saisir avec des codes à barres](saisir-les-resultats/saisir-avec-des-codes-a-barres.md)
