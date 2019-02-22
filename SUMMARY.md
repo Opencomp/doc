@@ -28,7 +28,7 @@
     * [Détecter les résultats](saisir-les-resultats/utiliser-opencomp-genie/detecter-les-resultats.md)
 * [Analyser les résultats](analyser-les-resultats.md)
 * [Rédiger les appréciations](rediger-les-appreciations.md)
-* [Imprimer les synthèses et bilans](imprimer-les-syntheses-et-bilans/README.md)
+* [Imprimer synthèses et bilans](imprimer-les-syntheses-et-bilans/README.md)
   * [Synthèses périodiques](imprimer-les-syntheses-et-bilans/syntheses-periodiques.md)
   * [Résultats détaillés](imprimer-les-syntheses-et-bilans/detail-des-resultats.md)
   * [Bilans périodiques type "LSU"](imprimer-les-syntheses-et-bilans/bilan-periodique-type-lsu.md)

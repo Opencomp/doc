@@ -5,5 +5,5 @@ description: >-
   sur cette page.
 ---
 
-# Imprimer les synthèses et bilans
+# Imprimer synthèses et bilans
 
