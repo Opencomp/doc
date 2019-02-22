@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Accueil](README.md)
+* [🖋 rédaction en cours](redaction-en-cours.md)
 * [Démarrer avec Opencomp](demarrer-avec-opencomp/README.md)
   * [Créer et valider mon compte](demarrer-avec-opencomp/creer-et-valider-mon-compte.md)
   * [Rejoindre mon établissement](demarrer-avec-opencomp/rejoindre-mon-etablissement.md)
