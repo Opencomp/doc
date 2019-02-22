@@ -67,5 +67,5 @@
 * [Présentation de l'API REST](api-rest-developpeurs/presentation.md)
 * [Points de terminaison](api-rest-developpeurs/points-de-terminaison/README.md)
   * [Nomenclatures](api-rest-developpeurs/points-de-terminaison/api-rest-nomenclatures.md)
-  * [Classes](api-rest-developpeurs/points-de-terminaison/api-rest.md)
+  * [Classes](api-rest-developpeurs/points-de-terminaison/api-rest-classrooms.md)
 

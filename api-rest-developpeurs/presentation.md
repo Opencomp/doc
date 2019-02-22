@@ -87,5 +87,5 @@ Lorsque l'API REST renvoie un ensemble de résultats \(listing\), les résultats
 
 {% page-ref page="points-de-terminaison/api-rest-nomenclatures.md" %}
 
-{% page-ref page="points-de-terminaison/api-rest.md" %}
+{% page-ref page="points-de-terminaison/api-rest-classrooms.md" %}
 
