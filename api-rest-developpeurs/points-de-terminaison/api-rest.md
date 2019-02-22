@@ -37,117 +37,15 @@ Classe récupérée avec succès
 
 ```javascript
 {
-    "id": 17,
-    "title": "CE1\/CE2",
-    "year_id": 5,
-    "establishment_id": "DEMO",
-    "created": "2015-09-08T00:00:00+0000",
-    "pupils": [
-        {
-            "id": 128,
-            "name": "Bailly",
-            "first_name": "Rom\u00e9o",
-            "sex": "F",
-            "birthday": "2008-01-27T00:00:00+0000",
-            "state": null,
-            "tutor_id": null,
-            "created": "2015-09-08T00:00:00+0000",
-            "levels": [
-                {
-                    "id": 1123,
-                    "title": "CE2",
-                    "cycle_id": 2,
-                    "_joinData": {
-                        "level_id": 1123,
-                        "id": 164,
-                        "classroom_id": 17,
-                        "pupil_id": 128
-                    }
-                }
-            ],
-            "_joinData": {
-                "pupil_id": 128,
-                "id": 164,
-                "classroom_id": 17,
-                "level_id": 1123
-            }
-        },
-        {
-            "id": 129,
-            "name": "Simon",
-            "first_name": "Constant",
-            "sex": "M",
-            "birthday": "2008-11-21T00:00:00+0000",
-            "state": null,
-            "tutor_id": null,
-            "created": "2015-09-08T00:00:00+0000",
-            "levels": [
-                {
-                    "id": 1123,
-                    "title": "CE2",
-                    "cycle_id": 2,
-                    "_joinData": {
-                        "level_id": 1123,
-                        "id": 165,
-                        "classroom_id": 17,
-                        "pupil_id": 129
-                    }
-                }
-            ],
-            "_joinData": {
-                "pupil_id": 129,
-                "id": 165,
-                "classroom_id": 17,
-                "level_id": 1123
-            }
-        },
-        {
-            "id": 130,
-            "name": "Cordier",
-            "first_name": "Ma\u00eblle",
-            "sex": "M",
-            "birthday": "2008-07-18T00:00:00+0000",
-            "state": null,
-            "tutor_id": null,
-            "created": "2015-09-08T00:00:00+0000",
-            "levels": [
-                {
-                    "id": 1123,
-                    "title": "CE2",
-                    "cycle_id": 2,
-                    "_joinData": {
-                        "level_id": 1123,
-                        "id": 166,
-                        "classroom_id": 17,
-                        "pupil_id": 130
-                    }
-                }
-            ],
-            "_joinData": {
-                "pupil_id": 130,
-                "id": 166,
-                "classroom_id": 17,
-                "level_id": 1123
-            }
-        }
-    ],
-    "year": {
-        "id": 5,
-        "title": "2015\/2016"
-    },
-    "establishment": {
-        "id": "DEMO",
-        "name": "\u00c9tablissement de d\u00e9monstration",
-        "main_naming": null,
-        "uai_patronym": null,
-        "sector": "Public",
-        "address": "21 rue des Lilas",
-        "town_id": "80164",
-        "locality": null,
-        "X": null,
-        "Y": null,
-        "user_id": 1
-    }
+    "id": 109,
+    "id_be": 10001455,
+    "title": "Classe de d\u00e9mo 2018",
+    "year_id": 8,
+    "establishment_id": "DEMO1234",
+    "created": "2018-08-14T00:00:00+00:00",
+    "pupils_count": 25,
+    "evaluations_count": 4,
+    "license_key": null
 }
 ```
 {% endapi-method-response-example %}
