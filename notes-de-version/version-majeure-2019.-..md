@@ -1,0 +1,100 @@
+# Versions 2019
+
+## v2019.1.8 - 03/03/2019
+
+### 🐞 Corrigé
+
+* La redirection vers la classe dans laquelle est ajouté, modifié ou supprimé un élève est maintenant correcte \(régression v2019.1.\*\)
+
+### ⏲ Performances améliorées
+
+* Utilisation des compteurs mis en cache pour la récupération de la liste des évaluation pour lesquelles des résultats n'ont pas été saisis \(tableau de bord des classes\).
+* Suppression de la récupération des statistiques lors de l'édition des appréciations par domaine d'un élève. L'affichage de cette fenêtre modale est désormais bien plus rapide.
+
+## v2019.1.7 - 26/02/2019
+
+### 🔐 Sécurité
+
+* Mise à jour du framework CSS et Javascript Bootstrap vers la version 3.4.1 pour corriger une vulnérabilité de type XSS \(cross-site scripting\). [CVE-2019-8331](https://nvd.nist.gov/vuln/detail/CVE-2019-8331)
+* Les versions des dépendances backend et frontend utilisées sont désormais surveillées quotidiennement pour s'assurer qu'elles ne contiennent pas de vulnérabilités rendues publiques.
+* L'image 🐳 Docker d'Opencomp construite à chaque mise en production est maintenant surveillée quotidiennement afin de s'assurer que les paquets installés ne contiennent pas de vulnérabilités rendues publiques.
+
+## v2019.1.6 - 26/02/2019
+
+### 🐘 Mise à jour de dépendances
+
+* L'extension de gestion des utilisateurs utilisée a été mise à jour.
+
+### 🚢 [Intégration continue](https://fr.wikipedia.org/wiki/Int%C3%A9gration_continue) & déploiement continu
+
+* Les pipeline déclenchés par la plateforme d'intégration continue et de déploiement continue 🦊Gitlab tirent maintenant parti de la mise en cache ce qui a pour conséquence des temps de traitement raccourcis \(mise en production de nouvelles versions plus rapides\).
+
+## v2019.1.4 & v2019.1.5 - 22/02/2019
+
+### 🐞 Corrigé
+
+* Il est de nouveau possible de sélectionner les élèves évalués lors de la création ou de la modification d'un évaluation \(régression v2019.1.3\).
+
+## v2019.1.3 - 22/02/2019
+
+### 📈 Statistiques
+
+* Ajout du code de suivi Matomo Tag Manager pour collecter des statistiques de visite. Les statistiques sont collectés et traités en interne \(le serveur collectant les données est opéré par Opencomp\). Matomo est une solution libre de mesure d'audience \(concurente de Google Analytics\) et hébergeable.
+
+### 🍂 Nettoyage de code
+
+* Suppression de code inutile pour l'écran affichant les élèves d'une classe.
+
+## v2019.1.1 & v2019.1.2 - 19/02/2019
+
+### 🚢 [Intégration continue](https://fr.wikipedia.org/wiki/Int%C3%A9gration_continue) & déploiement continu
+
+* Transmission des informations concernant la [couverture de code](https://fr.wikipedia.org/wiki/Couverture_de_code) \(la proportion de code source couvert par des tests automatisés\) à [SonarQube](https://fr.wikipedia.org/wiki/SonarQube) \(logiciel permettant de mesurer la qualité du code source en continu\).
+
+## v2019.1.0 - 19/02/2019
+
+### ✨ Nouvelles fonctionnalités
+
+Vous pouvez désormais imprimer plusieurs types de documents, **directement depuis Opencomp** comme par exemple :
+
+* - La **synthèse des résultats** de chaque élève pour une période donnée, présentée sous forme de graphiques en couleurs \(une version spéciale pour l'impression en noir & blanc est également proposée\)
+
+![](https://opencomp.fr/fileadmin/user_upload/syntheses.png)
+
+* - Les **résultats détaillés** des élèves pour une période donnée sous la forme de tableaux indiquant les différentes connaissances et compétences évaluées avec le résultat obtenu pour chaque compétence \(trié par domaine et sous domaine d'enseignement\).
+
+![](https://opencomp.fr/fileadmin/user_upload/resultats.png)
+
+* - Le **suivi des acquis scolaires de l'élève** \(livret de "type" LSU reprenant le contenu obligatoire spécifié par les annexes [I](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742317#LEGIARTI000032615787) et [II](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742317#LEGIARTI000032615789) de [l'Arrêté du 31 décembre 2015 fixant le contenu du livret scolaire de l'école élémentaire et du collège](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742317)\)\*.
+
+![](https://opencomp.fr/fileadmin/user_upload/lsu.png)
+
+Découvrez vite ces nouveautés en vous connectant puis en sélectionnant le menu "**Appréciations & Impressions**" dans votre classe Opencomp. Cherchez ensuite le menu "**Imprimer**" à gauche des en-têtes de chaque colonne de période.
+
+_\* Même si vous imprimez et communiquez le suivi des acquis scolaires de l'élève type "LSU" depuis Opencomp, n'oubliez pas que_ [_l'Article 8_](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742317#LEGIARTI000031842235) _de_ [_l'Arrêté du 31 décembre 2015 fixant le contenu du livret scolaire de l'école élémentaire et du collège_](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031742317) _impose une transmission à chaque changement d'école d'un élève. Le Ministère de l'Education Nationale_ [_recommande cependant sur Eduscol_](http://eduscol.education.fr/cid108327/foire-aux-questions-du-livret-scolaire-unique.html#Ca3) _une fréquence de transmission à l'application nationale LSU régulière \(par exemple, à chaque fin de période\)._
+
+## v2019.0.2 - 23/01/2019
+
+### 🐞 Corrigé
+
+* La page "Mes factures" vous permet désormais de télécharger correctement vos factures après avoir souscrit un abonnement Opencomp. Auparavant, les factures n'apparaissaient pas dans cet écran et il était uniquement possible de les télécharger depuis l'écran "Mes commandes" pour les commandes facturées.
+
+## v2019.0.1 - 13/01/2019
+
+### 🗑 Supprimé
+
+Dans un effort de réduire l'utilisation de services externes quand cela n'est pas nécessaire pour un plus grand respect de la vie privée des utilisateurs, les services tiers suivants ne sont désormais plus utilisés :
+
+* Le service externe "Gravatar" permettant d'afficher automatiquement l'avatar d'un utilisateur en fonction de son adresse de courriel n'est désormais plus utilisé.
+* Le service externe "Google Fonts" n'est désormais plus utilisé pour le chargement de la police de caractères "Source Sans Pro". La police est chargée directement depuis le serveur Opencomp.
+
+## v2019.0.0 - 13/01/2019
+
+### ✨ Nouvelle fonctionnalité
+
+* Il est désormais possible de radier un élève. Lorsqu'un élève est radié, il n'est plus proposé dans les élèves ayant passé l'évaluation lors de la création de nouvelles évaluations.
+
+Pour marquer un élève comme étant radié, éditez simplement l'élève depuis votre liste en cliquant sur le lien "Modifier" et cochez la case "Radié".
+
+
+

@@ -63,6 +63,10 @@
 
 * [Gérer mon abonnement](foire-aux-questions/gerer-mon-abonnement.md)
 
+## Notes de version
+
+* [Versions 2019](notes-de-version/version-majeure-2019.-..md)
+
 ## API REST \(développeurs\)
 
 * [Présentation de l'API REST](api-rest-developpeurs/presentation.md)
