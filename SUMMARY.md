@@ -65,7 +65,7 @@
 
 ## Notes de version
 
-* [Versions 2019](notes-de-version/version-majeure-2019.-..md)
+* [Versions 2019](notes-de-version/2019.md)
 
 ## API REST \(développeurs\)
 
