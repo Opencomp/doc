@@ -59,9 +59,10 @@
 * [Extraire les élèves depuis ONDE](aide-onde-directeurs/extraire-les-eleves-depuis-onde.md)
 * [Récupérer l'id ONDE d'une classe](aide-onde-directeurs/recuperer-lid-onde-dune-classe.md)
 
-## Questions fréquentes
+## Questions fréquentes <a id="foire-aux-questions"></a>
 
 * [Gérer mon abonnement](foire-aux-questions/gerer-mon-abonnement.md)
+* [Détermination des résultats](foire-aux-questions/determination-des-resultats.md)
 
 ## Notes de version
 
