@@ -27,6 +27,7 @@
     * [Définir votre clé d'API](saisir-les-resultats/utiliser-opencomp-genie/definir-votre-cle-dapi.md)
     * [Numériser mes copies](saisir-les-resultats/utiliser-opencomp-genie/numeriser-mes-copies.md)
     * [Détecter les résultats](saisir-les-resultats/utiliser-opencomp-genie/detecter-les-resultats.md)
+    * [Résoudre les problèmes](saisir-les-resultats/utiliser-opencomp-genie/resoudre-les-problemes.md)
 * [Analyser les résultats](analyser-les-resultats.md)
 * [Rédiger les appréciations](rediger-les-appreciations.md)
 * [Imprimer synthèses et bilans](imprimer-les-syntheses-et-bilans/README.md)
