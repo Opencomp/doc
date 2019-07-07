@@ -48,6 +48,7 @@
       * [Paramétrer les classes en "Import éditeur"](exporter-vers-lsu/avant-dexporter/parametrer-lsu/parametrer-import-editeur-lsu.md)
   * [Exporter depuis Opencomp](exporter-vers-lsu/exporter-depuis-opencomp.md)
   * [Importer dans LSU](exporter-vers-lsu/importer-dans-lsu.md)
+  * [Activer les téléservices](exporter-vers-lsu/activer-les-teleservices.md)
   * [Résolution de problèmes](exporter-vers-lsu/resolution-de-problemes/README.md)
     * [Paramétrage incohérent](exporter-vers-lsu/resolution-de-problemes/parametrage-incoherent.md)
     * [Classe non trouvée](exporter-vers-lsu/resolution-de-problemes/classe-non-trouvee.md)
