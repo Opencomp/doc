@@ -64,6 +64,8 @@
 ## Questions fréquentes <a id="foire-aux-questions"></a>
 
 * [Gérer mon abonnement](foire-aux-questions/gerer-mon-abonnement.md)
+* [Gérer mon compte](foire-aux-questions/gerer-mon-compte/README.md)
+  * [Réinitialiser mon mot de passe](foire-aux-questions/gerer-mon-compte/reinitialiser-mon-mot-de-passe.md)
 * [Détermination des résultats](foire-aux-questions/determination-des-resultats.md)
 
 ## Notes de version
