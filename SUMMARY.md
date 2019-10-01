@@ -56,6 +56,10 @@
     * [Dates périodes incohérentes](exporter-vers-lsu/resolution-de-problemes/dates-periodes-incoherentes.md)
     * [Enseignant inconnu](exporter-vers-lsu/resolution-de-problemes/enseignant-inconnu.md)
 
+## Assistance à distance
+
+* [Télécharger Wayk Now](https://wayk.devolutions.net/fr/home/download)
+
 ## Aide ONDE \(directeurs\)
 
 * [Extraire les élèves depuis ONDE](aide-onde-directeurs/extraire-les-eleves-depuis-onde.md)
