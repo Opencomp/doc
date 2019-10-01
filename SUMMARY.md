@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Accueil](README.md)
-* [🖋 rédaction en cours](redaction-en-cours.md)
 * [Démarrer avec Opencomp](demarrer-avec-opencomp/README.md)
   * [Créer et valider mon compte](demarrer-avec-opencomp/creer-et-valider-mon-compte.md)
   * [Rejoindre mon établissement](demarrer-avec-opencomp/rejoindre-mon-etablissement.md)
@@ -56,10 +55,6 @@
     * [Dates périodes incohérentes](exporter-vers-lsu/resolution-de-problemes/dates-periodes-incoherentes.md)
     * [Enseignant inconnu](exporter-vers-lsu/resolution-de-problemes/enseignant-inconnu.md)
 
-## Assistance à distance
-
-* [Télécharger Wayk Now](https://wayk.devolutions.net/fr/home/download)
-
 ## Aide ONDE \(directeurs\)
 
 * [Extraire les élèves depuis ONDE](aide-onde-directeurs/extraire-les-eleves-depuis-onde.md)
@@ -75,6 +70,10 @@
 ## Notes de version
 
 * [Versions 2019](notes-de-version/2019.md)
+
+## Assistance à distance
+
+* [Télécharger Wayk Now](https://wayk.devolutions.net/fr/home/download)
 
 ## API REST \(développeurs\)
 
