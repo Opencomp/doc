@@ -16,11 +16,14 @@ Voici quelques pistes qui peuvent vous permettre d'améliorer la détection des 
 
 * Assurez-vous d'**imprimer convenablement vos copies**. C'est à dire en taille réelle \(sans ajuster à la page\). Voir l'article [Comment imprimer mes évaluations ?](../../creer-mes-evaluations/imprimer-mon-evaluation.md) pour davantage de précisions.
 
-### 2. Numériser les copies droites
+### 2. Numériser les copies droites, à bonne résolution et sans compression
 
 * Assurez-vous que **les copies sont scannées** _**droites**_. Soyez donc particulièrement vigilent\(e\) à ce que les taquets du chargeur automatique de document touchent les bords de la pile de copies.
 
 ![](../../.gitbook/assets/taquets-adf.jpg)
+
+* Assurez-vous que **les copies sont scannées** _**à bonne résolution**_. La résolution de numérisation recommandée est de 300 ppp/dpi
+* Assurez-vous que **les copies sont scannées** _**en désactivant les fonctions éventuelles de compression des images**_.
 
 ### 3. Corriger avec le bon stylo
 
