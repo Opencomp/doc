@@ -17,7 +17,7 @@ Importer directement le fichier .csv provenant d'ONDE permettra donc de vous év
 {% hint style="warning" %}
 **Conservez le fichier même après l'import dans Opencomp** car il contient l'identifiant ONDE de la classe. Vous en aurez besoin lors de l'export vers LSU depuis Opencomp.
 
-L'identifiant ONDE de la classe est disponible dans la **colonne numéro 18**, intitulée **Identifiant Classe**. Pour consulter le contenu du fichier .csv, vous pouvez utiliser un logiciel de tableur comme Microsoft Excel ou [Libre Office Calc](https://fr.libreoffice.org/download/libreoffice-stable/).
+L'identifiant ONDE de la classe est disponible dans la **colonne numéro 18 \(colonne R\)**, intitulée **Identifiant Classe**. Pour consulter le contenu du fichier .csv, vous pouvez utiliser un logiciel de tableur comme Microsoft Excel ou [Libre Office Calc](https://fr.libreoffice.org/download/libreoffice-stable/).
 {% endhint %}
 
 ## Pas à pas en vidéo
