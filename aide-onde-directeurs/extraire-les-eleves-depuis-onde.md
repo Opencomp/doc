@@ -34,14 +34,14 @@ Une procédure pas à pas en vidéo a été réalisée pour vous guider dans le 
 
 ![S&#xE9;lectionnez &quot;Extractions&quot; dans le menu &quot;Listes &amp; documents&quot;](../.gitbook/assets/extraction.png)
 
-![S&#xE9;lectionnez &quot;Ensemble des &#xE9;l&#xE8;ves de l&apos;&#xE9;cole&quot;](../.gitbook/assets/ensemble.png)
+![S&#xE9;lectionnez &quot;&#xC9;l&#xE8;ves de l&apos;&#xE9;cole ou leurs responsables&quot;](../.gitbook/assets/ensemble.png)
 
 {% hint style="danger" %}
-Dans cette étape, attention de bien sélectionner **Ensemble des élèves de l'école** car l'extraction par Groupe d'élèves ne contient pas les INE des élèves ni l'identifiant de la classe dans ONDE.
+Dans cette étape, attention de bien sélectionner **Élèves de l'école ou leurs responsables** car l'extraction par Groupe d'élèves ne contient pas les INE des élèves ni l'identifiant de la classe dans ONDE.
 {% endhint %}
 
 {% hint style="info" %}
-Bien qu'intitulée **Ensemble des élèves de l'école**, il est possible ensuite de restreindre l'extraction à une classe donnée en renseignant des critères de filtrage.
+Bien qu'intitulée **Élèves de l'école ou leurs responsables**, il est possible ensuite de restreindre l'extraction à une classe donnée en renseignant des critères de filtrage.
 {% endhint %}
 
 ![Choisissez la classe &#xE0; extraire](../.gitbook/assets/classe.png)
