@@ -69,7 +69,7 @@
 
 ## Notes de version
 
-* [Versions 2019](notes-de-version/2019.md)
+* [Version majeure 2019](notes-de-version/2019.md)
 
 ## Assistance à distance
 
