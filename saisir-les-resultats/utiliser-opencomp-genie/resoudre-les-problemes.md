@@ -39,5 +39,24 @@ Si vous n'avez jamais essayé de détecter les résultats, commencez par faire u
 
 
 
+## Pourquoi Opencomp Genie n'arrive pas à se connecter ?
 
+_Vous trouverez ci-dessous une résolution des différents messages d'erreur que vous pouvez rencontrer._
+
+### Une erreur système a été détectée pendant l'envoi de la requête HTTP.
+
+![](../../.gitbook/assets/erreur-systeme.png)
+
+{% hint style="info" %}
+Cette erreur se produit généralement en raison d'une erreur de configuration des **Options Internet** de votre système Windows.
+{% endhint %}
+
+* Lancez Microsoft **Internet Explorer** \(et non Microsoft Edge\).
+* Cliquez sur l’icône **Outils**  ![Internet Explorer : cliquer sur l&#x2019;ic&#xF4;ne Outils situ&#xE9;e en haut &#xE0; droite de votre &#xE9;cran](https://assistance.orange.fr/medias/woopic/images/var/orange/storage/images/media/crc-racine/captures-ecran/technique/commun-images-dans-texte-16-x-16/internet-explorer-11-icone-outils/19334122-2-fre-FR/internet-explorer-11-icone-outils_icon16x16.png) située en haut à droite de votre écran.
+* Dans le menu qui apparaît, sélectionnez **Options Internet**.
+* Sélectionnez l'onglet **Avancé**.
+* Faites défiler la liste de paramètres proposée pour afficher le bas de la liste et assurez vous que les paramètres **Utiliser TLS 1.1** et **Utiliser TLS 1.2** sont bien cochés \(si ce n'est pas le cas, cochez-les\).
+* Cliquez sur **Appliquer** puis sur **OK**.
+
+![Onglet &quot;Avanc&#xE9;&quot; des Propri&#xE9;t&#xE9;s Internet.](../../.gitbook/assets/b1b7f8a1-ea43-4a12-aaa5-6e3d0d92bb91.png)
 
