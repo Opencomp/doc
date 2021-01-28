@@ -54,6 +54,7 @@
     * [Périodes non paramétrées](exporter-vers-lsu/resolution-de-problemes/periodes-non-parametrees.md)
     * [Dates périodes incohérentes](exporter-vers-lsu/resolution-de-problemes/dates-periodes-incoherentes.md)
     * [Enseignant inconnu](exporter-vers-lsu/resolution-de-problemes/enseignant-inconnu.md)
+    * [Modalités d'acc. ignorées](exporter-vers-lsu/resolution-de-problemes/modalites-dacc.-ignorees.md)
 
 ## Aide ONDE \(directeurs\)
 

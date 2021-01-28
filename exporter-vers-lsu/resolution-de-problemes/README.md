@@ -22,7 +22,11 @@ Vous trouverez dans les pages ci-dessous des solutions pour résoudre les probl�
 
 ## Messages d'avertissement \(bilans importés\)
 
-Les messages d'avertissement n'empêchent pas l'import mais portent simplement à votre attention des éléments potentiellements importants.
+Les messages d'avertissement n'empêchent pas l'import mais portent simplement à votre attention des éléments potentiellement importants.
 
 {% page-ref page="enseignant-inconnu.md" %}
+
+{% page-ref page="modalites-dacc.-ignorees.md" %}
+
+
 
