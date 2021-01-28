@@ -1,6 +1,10 @@
-# Résolution de problèmes
+---
+description: >-
+  Cette page détaille les principales erreurs pouvant se produire et la façon de
+  les résoudre.
+---
 
-Dans cette page, nous détaillerons les principales erreurs pouvant se produire et la façon de les résoudre.
+# Résolution de problèmes
 
 ## Messages d'erreur \(bilans rejetés\)
 
