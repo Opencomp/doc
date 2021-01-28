@@ -1,3 +1,7 @@
+---
+description: Les prérequis à vérifier et les paramétrages préalables à l'export vers LSU.
+---
+
 # Avant d'exporter
 
 Avant d'exporter, vérifiez tout d'abord les prérequis nécessaires à l'export :

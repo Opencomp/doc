@@ -1,7 +1,7 @@
 ---
 description: >-
   Cette page vous explique comment permettre aux parents d'élèves de télécharger
-  les Livrets Scolaires Unique de leurs enfants.
+  les LSU de leurs enfants.
 ---
 
 # Activer les téléservices
