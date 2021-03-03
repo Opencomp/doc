@@ -70,6 +70,7 @@
 
 ## Notes de version
 
+* [Version majeure 2021](notes-de-version/version-majeure-2021.md)
 * [Version majeure 2019](notes-de-version/2019.md)
 
 ## Assistance à distance
