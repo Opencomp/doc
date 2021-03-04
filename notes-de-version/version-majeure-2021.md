@@ -6,6 +6,27 @@ description: >-
 
 # Version majeure 2021
 
+_Les mises à jour liées à la sécurité et à l'infrastructure sont indiquées par mesure de transparence mais n'entraînent aucun changement visible à votre niveau._
+
+## v2021.0.3 - 04/03/2021
+
+### 🐞 Corrigé
+
+* L'accès à la page `/users/login` redirige désormais de façon permanente vers `/login`.
+
+## v2021.0.2 - 04/03/2021
+
+### 🐞 Corrigé
+
+* L'accès à la page "Réinitialisation de mot de passe" est possible et ne génère plus d'erreur `500`.
+* La page de connexion comporte de nouveau les particules animées \(cercles\).
+
+## v2021.0.1 - 03/03/2021
+
+### 🐞 Corrigé
+
+* L'accès à l'application est désormais possible et ne génère plus d'_Internal Server Error_.
+
 ## v2021.0.0 - 03/03/2021
 
 ### 🆕 Nouvelles fonctionnalités
