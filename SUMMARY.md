@@ -75,7 +75,7 @@
 
 ## Assistance à distance
 
-* [Télécharger Wayk Now](https://wayk.devolutions.net/fr/home/download)
+* [Télécharger AnyDesk](https://anydesk.com/fr/downloads)
 
 ## API REST \(développeurs\)
 
