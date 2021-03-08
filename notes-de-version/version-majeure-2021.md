@@ -8,6 +8,17 @@ description: >-
 
 _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquées par mesure de transparence mais n'entraînent aucun changement visible à votre niveau._
 
+## v2021.0.4 - 08/03/2021
+
+### 🔄 Dépendances
+
+* Mise à jour du **langage de script PHP** vers la version **8.0.3**
+* Mise à jour des dépendances **frontend** 🎨 
+
+### 🚢 [Intégration continue](https://fr.wikipedia.org/wiki/Int%C3%A9gration_continue) & déploiement continu
+
+* Les plugins CKEditor personnalisés \(réglures Sèyes, Vrai/Faux, Tableaux, Hauteur de ligne, Fraction\) sont désormais installés depuis un dépôt privé **`npm`** sur l'instance Gitlab [`src.opencomp.fr`](https://src.opencomp.fr)
+
 ## v2021.0.3 - 04/03/2021
 
 ### 🐞 Corrigé
