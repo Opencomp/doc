@@ -8,6 +8,13 @@ description: >-
 
 _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquées par mesure de transparence mais n'entraînent aucun changement visible à votre niveau._
 
+## v2021.0.5 - 05/03/2021
+
+### 🐞 Corrigé
+
+* La récupération automatique des virements entre le compte Stripe et le compte courant vers Dolibarr est de nouveau fonctionnelle.
+* L'adresse IP retournée à Sentry prend désormais en compte l'en-tête `X-Forwarded-For`.
+
 ## v2021.0.4 - 08/03/2021
 
 ### 🔄 Dépendances
