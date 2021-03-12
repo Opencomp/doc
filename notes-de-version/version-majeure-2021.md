@@ -12,7 +12,7 @@ _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquée
 
 ### 🐞 Corrigé
 
-* La suppression d'un élève d'une évaluation existante ne génère plus d'erreur `500` \(merci à _Lucie_\).
+* La suppression d'un élève d'une évaluation existante ne génère plus d'erreur `500` \(merci à _Lucie_👍\).
 
 ### 🔄 Dépendances
 
@@ -40,13 +40,13 @@ _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquée
 
 ### 🐞 Corrigé
 
-* L'accès à la page `/users/login` redirige désormais de façon permanente vers `/login`.
+* L'accès à la page `/users/login` redirige désormais de façon permanente vers `/login` \(merci à _Aude_ 👍\).
 
 ## v2021.0.2 - 04/03/2021
 
 ### 🐞 Corrigé
 
-* L'accès à la page "Réinitialisation de mot de passe" est possible et ne génère plus d'erreur `500`.
+* L'accès à la page "Réinitialisation de mot de passe" est possible et ne génère plus d'erreur `500` \(merci à _Aude_👍\).
 * La page de connexion comporte de nouveau les particules animées \(cercles\).
 
 ## v2021.0.1 - 03/03/2021
