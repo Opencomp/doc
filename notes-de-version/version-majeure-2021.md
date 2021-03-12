@@ -12,7 +12,7 @@ _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquée
 
 ### 🐞 Corrigé
 
-* La suppression d'un élève d'une évaluation existante ne génère plus d'erreur `500`.
+* La suppression d'un élève d'une évaluation existante ne génère plus d'erreur `500` \(merci à _Lucie_\).
 
 ### 🔄 Dépendances
 
