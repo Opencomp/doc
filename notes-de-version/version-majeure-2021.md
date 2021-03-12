@@ -8,6 +8,12 @@ description: >-
 
 _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquées par mesure de transparence mais n'entraînent aucun changement visible à votre niveau._
 
+## v2021.0.6 - 12/03/2021
+
+### 🐞 Corrigé
+
+* La suppression d'un élève d'une évaluation existante ne génère plus d'erreur `500`.
+
 ## v2021.0.5 - 05/03/2021
 
 ### 🐞 Corrigé
