@@ -14,6 +14,10 @@ _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquée
 
 * La suppression d'un élève d'une évaluation existante ne génère plus d'erreur `500`.
 
+### 🔄 Dépendances
+
+* Mise à jour des dépendances **backend** 🛠 
+
 ## v2021.0.5 - 05/03/2021
 
 ### 🐞 Corrigé
