@@ -8,6 +8,20 @@ description: >-
 
 _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquées par mesure de transparence mais n'entraînent aucun changement visible à votre niveau._
 
+## v2021.0.7 - 14/03/2021
+
+### 🐞 Corrigé
+
+* Correction d'une erreur d'orthographe sur la page expliquant les différents modes de paiement pour le règlement d'une commande de type "établissement".
+
+### 🍂 Nettoyage de code
+
+* Remplacement de l'appel à `onOpen` par `didOpen` \([**`sweetalert2`**](https://github.com/sweetalert2/sweetalert2) depuis la [`v10.3.0`](https://github.com/sweetalert2/sweetalert2/releases/tag/v10.3.0)\)
+
+### 🔄 Dépendances
+
+* Mise à jour des dépendances **backend** 🛠 
+
 ## v2021.0.6 - 12/03/2021
 
 ### 🐞 Corrigé
