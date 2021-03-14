@@ -63,8 +63,8 @@ _Les mises à jour liées à la sécurité et à l'infrastructure sont indiquée
 
 ![La page d&apos;accueil &quot;Mes classes&quot; avec la nouvelle interface.](../.gitbook/assets/opencomp-new.png)
 
-* Nouvelle en-tête pour les classes et les évaluations rappelant le titre de la classe ou de l'évaluation active. 
-* Les actions relatives à une classe ou à une évaluation en particulier sont maintenant disponibles à partir du bouton déroulant symbolisé par des engrenages à droite de la nouvelle en-tête.
+* Nouvel en-tête pour les classes et les évaluations rappelant le titre de la classe ou de l'évaluation active. 
+* Les actions relatives à une classe ou à une évaluation en particulier sont maintenant disponibles à partir du bouton déroulant symbolisé par des engrenages à droite du nouvel en-tête.
 
 ![Nouvelle en-t&#xEA;te &quot;classe&quot; et menu d&apos;actions associ&#xE9;es \(&#xE0; droite\).](../.gitbook/assets/menu-objets.png)
 
