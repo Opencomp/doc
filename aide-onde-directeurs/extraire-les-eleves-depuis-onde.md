@@ -2,7 +2,7 @@
 
 ## Qu'est-ce que ONDE ?
 
-ONDE \(Outil Numérique pour la Direction d'Ecole \) est le nouveau nom de Base élèves 1er degré \(appelé aussi BE1D ou Base-élèves\). Il s'agit d'une application d’aide à l’inscription des élèves et à la gestion pour les directeurs d’école et les mairies de France.
+ONDE \(Outil Numérique pour la Direction d'École\) est le nouveau nom de Base élèves 1er degré \(appelé aussi BE1D ou Base-élèves\). Il s'agit d'une application d’aide à l’inscription des élèves et à la gestion pour les directeurs d’école et les mairies de France.
 
 ## Intérêt d'extraire les élèves depuis ONDE
 
