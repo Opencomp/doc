@@ -8,7 +8,7 @@ description: >-
 
 ## 1. Télécharger
 
-Rendez-vous à l'adresse [https://genie.opencomp.fr](https://genie.opencomp.fr) et cliquez sur le bouton **Télécharger Opencomp Genie \[...\] pour GNU/Linux**. 
+Rendez-vous à l'adresse [https://genie.opencomp.fr](https://genie.opencomp.fr) et cliquez sur le bouton **Télécharger Opencomp Genie \[...] pour GNU/Linux**. 
 
 Si vous souhaitez télécharger la version GNU/Linux du logiciel depuis un ordinateur n'exécutant pas GNU/Linux, vous pouvez utiliser le lien suivant : [https://genie.opencomp.fr/OpencompGenie.AppImage](https://genie.opencomp.fr/OpencompGenie.AppImage)
 
@@ -18,7 +18,7 @@ Si vous souhaitez télécharger la version GNU/Linux du logiciel depuis un ordin
 {% tab title="Méthode graphique" %}
 Accédez à votre dossier **Téléchargements** puis, effectuez un clic droit sur le fichier **OpencompGenie.AppImage** que vous venez de télécharger et sélectionnez l'option de menu **Propriétés.**
 
-![](../../../.gitbook/assets/proprietes.png)
+![](../../../.gitbook/assets/propriétés.png)
 
 Dans la boîte de dialogue **Propriétés de OpencompGenie.AppImage**, sélectionnez l'onglet **Permissions** et cochez la case **Autoriser l'exécution du fichier comme un programme** et fermez la fenêtre.
 
@@ -38,7 +38,7 @@ chmod u+x ~/Téléchargements/OpencompGenie.AppImage
 
 Il ne vous reste plus qu'à lancer **Opencomp Genie** en double cliquant sur le fichier **OpencompGenie.AppImage**
 
-## **Intégration au système \(facultatif\)**
+## **Intégration au système (facultatif)**
 
 Si vous souhaitez ajouter **Opencomp Genie** aux menus de votre distribution GNU/Linux, vous pouvez utiliser le logiciel `appimaged` pour cette tâche.
 
@@ -53,6 +53,5 @@ chmod a+x appimaged-x86_64.AppImage
 ```
 
 {% hint style="info" %}
-Pour des informations à jour sur l'installation de`appimaged`, vous pouvez consultez [le fichier Lisez-moi](https://github.com/AppImage/appimaged/blob/master/README.md#install) de l'utilitaire \(en anglais\).
+Pour des informations à jour sur l'installation de`appimaged`, vous pouvez consultez [le fichier Lisez-moi](https://github.com/AppImage/appimaged/blob/master/README.md#install) de l'utilitaire (en anglais).
 {% endhint %}
-

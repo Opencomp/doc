@@ -12,13 +12,11 @@ Pour modifier l'ordre des exercices ou des éléments de programme, vous pouvez 
 
 Cliquez simplement sur l'élément à déplacer, puis, tout en maintenant le bouton gauche de la souris enfoncé, faites glisser l'élément à sa nouvelle place. Relâchez le bouton gauche de la souris.
 
-![Un &#xE9;l&#xE9;ment de programme en train d&apos;&#xEA;tre gliss&#xE9; pour &#xEA;tre d&#xE9;plac&#xE9;.](../.gitbook/assets/deplacer.png)
+![Un élément de programme en train d'être glissé pour être déplacé.](../.gitbook/assets/déplacer.png)
 
 La nouvelle place de l'élément est automatiquement enregistrée et l'aperçu de votre évaluation est actualisé afin que vous puissiez observer les changements.
 
 ## Modifier les éléments de programme évalués
 
 ## Modifier les exercices
-
-
 

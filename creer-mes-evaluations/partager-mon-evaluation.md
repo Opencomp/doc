@@ -9,7 +9,5 @@ description: >-
 
 Découvrez cette fonctionnalité en vidéo :
 
-{% embed url="https://www.youtube.com/watch?v=cM35\_GmvXE4" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=cM35_GmvXE4" %}
 

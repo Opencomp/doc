@@ -1,29 +1,15 @@
 # Nomenclatures
 
-{% api-method method="get" host="https://my.opencomp.fr" path="/api/v1/towns.json?api\_key=:api\_key" %}
-{% api-method-summary %}
-/towns.json
-{% endapi-method-summary %}
-
-{% api-method-description %}
+{% swagger baseUrl="https://my.opencomp.fr" path="/api/v1/towns.json?api_key=:api_key" method="get" summary="/towns.json" %}
+{% swagger-description %}
 Ce point d'accès vous permet de récupérer les villes.
-{% endapi-method-description %}
+{% endswagger-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-query-parameters %}
-{% api-method-parameter name="api\_key" type="string" required=true %}
+{% swagger-parameter in="query" name="api_key" type="string" %}
 Votre clé d'API
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="Cake successfully retrieved." %}
 ```javascript
 {
     "items": [
@@ -112,10 +98,6 @@ Cake successfully retrieved.
     "total_count": 9
 }
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-
+{% endswagger-response %}
+{% endswagger %}
 
