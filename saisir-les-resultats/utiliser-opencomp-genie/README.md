@@ -7,22 +7,17 @@ description: >-
 
 # Utiliser Opencomp Genie
 
-**Opencomp Genie **est un logiciel gratuit (compris dans votre abonnement Opencomp) qui vous permet de reconnaître automatiquement les résultats depuis une numérisation (scan) de vos copies élèves.
+**Opencomp Genie** est un logiciel gratuit \(compris dans votre abonnement Opencomp\) qui vous permet de reconnaître automatiquement les résultats depuis une numérisation \(scan\) de vos copies élèves.
 
 Si **Opencomp Genie** n'est pas encore installé sur votre ordinateur, découvrez comment l'installer.
 
-{% content-ref url="installer-le-logiciel/" %}
-[installer-le-logiciel](installer-le-logiciel/)
-{% endcontent-ref %}
+{% page-ref page="installer-le-logiciel/" %}
 
 Avant de pouvoir utiliser **Opencomp Genie**, vous devez commencer par numériser vos copies.
 
-{% content-ref url="numeriser-mes-copies.md" %}
-[numeriser-mes-copies.md](numeriser-mes-copies.md)
-{% endcontent-ref %}
+{% page-ref page="numeriser-mes-copies.md" %}
 
 Vous avez déjà numérisé vos copies ?
 
-{% content-ref url="detecter-les-resultats.md" %}
-[detecter-les-resultats.md](detecter-les-resultats.md)
-{% endcontent-ref %}
+{% page-ref page="detecter-les-resultats.md" %}
+

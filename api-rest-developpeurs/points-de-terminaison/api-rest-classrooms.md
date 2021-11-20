@@ -1,36 +1,40 @@
 # Classes
 
-{% swagger baseUrl="https://my.opencomp.fr" path="/api/v1/classrooms/:id.:format?api_key=:api_key" method="get" summary="/classrooms/:id.json" %}
-{% swagger-description %}
+{% api-method method="get" host="https://my.opencomp.fr" path="/api/v1/classrooms/:id.:format?api\_key=:api\_key" %}
+{% api-method-summary %}
+/classrooms/:id.json
+{% endapi-method-summary %}
+
+{% api-method-description %}
 Ce point d'accès vous permet de récupérer une classe.
-{% endswagger-description %}
+{% endapi-method-description %}
 
-{% swagger-parameter in="path" name="id" type="integer" %}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="id" type="integer" required=true %}
 L'identifiant de la classe à récupérer.
-{% endswagger-parameter %}
+{% endapi-method-parameter %}
 
-{% swagger-parameter in="path" name="format" type="string" %}
-Le format de données à récupérer en sortie.
+{% api-method-parameter name="format" type="string" required=true %}
+Le format de données à récupérer en sortie.  
+Peut être **`json`** ou **`xml`**.
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
 
-\
-
-
-Peut être 
-
-**`json`**
-
- ou 
-
-**`xml`**
-
-.
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="api_key" type="string" %}
+{% api-method-query-parameters %}
+{% api-method-parameter name="api\_key" type="string" required=true %}
 Votre clé d'API.
-{% endswagger-parameter %}
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+{% endapi-method-request %}
 
-{% swagger-response status="200" description="Classe récupérée avec succès" %}
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+Classe récupérée avec succès
+{% endapi-method-response-example-description %}
+
 ```javascript
 {
     "id": 109,
@@ -44,9 +48,13 @@ Votre clé d'API.
     "license_key": null
 }
 ```
-{% endswagger-response %}
+{% endapi-method-response-example %}
 
-{% swagger-response status="401" description="La clé d'API est manquante ou n'existe pas." %}
+{% api-method-response-example httpCode=401 %}
+{% api-method-response-example-description %}
+La clé d'API est manquante ou n'existe pas.
+{% endapi-method-response-example-description %}
+
 ```javascript
 {
     "message": "API Key is missing or invalid. Retry with api_key query parameter.",
@@ -54,9 +62,13 @@ Votre clé d'API.
     "code": 401
 }
 ```
-{% endswagger-response %}
+{% endapi-method-response-example %}
 
-{% swagger-response status="403" description="La clé d'API est valide mais vous n'avez pas la permission d'accéder à la ressource demandée." %}
+{% api-method-response-example httpCode=403 %}
+{% api-method-response-example-description %}
+La clé d'API est valide mais vous n'avez pas la permission d'accéder à la ressource demandée.
+{% endapi-method-response-example-description %}
+
 ```javascript
 {
     "message": "Vous n\u0027\u00eates pas autoris\u00e9 \u00e0 acc\u00e9der \u00e0 cet emplacement.",
@@ -64,6 +76,10 @@ Votre clé d'API.
     "code": 403
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
 

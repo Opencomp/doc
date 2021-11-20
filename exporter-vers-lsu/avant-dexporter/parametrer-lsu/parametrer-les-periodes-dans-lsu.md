@@ -6,11 +6,11 @@ description: >-
 
 # Paramétrer les périodes
 
-![Cliquez sur le menu "Paramétrage par classe" puis sur "Paramétrage des périodes"](../../../.gitbook/assets/périodes.png)
+![Cliquez sur le menu &quot;Param&#xE9;trage par classe&quot; puis sur &quot;Param&#xE9;trage des p&#xE9;riodes&quot;](../../../.gitbook/assets/periodes%20%281%29.png)
 
-![Cliquez sur l'icône du crayon, dans l'en-tête de section de la périodicité que vous souhaitez affecter à votre classe.](../../../.gitbook/assets/associer_classe_période1.png)
+![Cliquez sur l&apos;ic&#xF4;ne du crayon, dans l&apos;en-t&#xEA;te de section de la p&#xE9;riodicit&#xE9; que vous souhaitez affecter &#xE0; votre classe.](../../../.gitbook/assets/associer_classe_periode1.png)
 
-![Cochez les cases pour les classes à associer à la périodicité.](../../../.gitbook/assets/associer_période2.png)
+![Cochez les cases pour les classes &#xE0; associer &#xE0; la p&#xE9;riodicit&#xE9;.](../../../.gitbook/assets/associer_periode2.png)
 
 {% hint style="info" %}
 Vous pouvez modifier si vous le souhaitez les dates prédéfinies par défaut.
@@ -21,3 +21,4 @@ Cliquez sur l'icône de la disquette en haut, à droite pour valider et enregist
 {% hint style="success" %}
 Vos classes sont associées à des périodes dans LSU et vous avez modifié les dates des périodes si vous le souhaitiez ; passons à la suite !
 {% endhint %}
+

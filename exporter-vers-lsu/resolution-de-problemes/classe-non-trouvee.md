@@ -3,7 +3,7 @@
 ## Message d'erreur
 
 {% hint style="danger" %}
-La classe référencée dans le bilan de l'élève **NOM PRÉNOM (CLASSE) **pour la période **INDICE_PÉRIODE / NB_PÉRIODES ( ANNÉE_SCOLAIRE )** est inconnue dans la base de données ONDE. Vérifiez les données dans ONDE, puis le logiciel d'évaluation.
+La classe référencée dans le bilan de l'élève **NOM PRÉNOM \(CLASSE\)** pour la période **INDICE\_PÉRIODE / NB\_PÉRIODES \( ANNÉE\_SCOLAIRE \)** est inconnue dans la base de données ONDE. Vérifiez les données dans ONDE, puis le logiciel d'évaluation.
 {% endhint %}
 
 ## Pourquoi ?
@@ -16,12 +16,9 @@ Assurez vous que l'identifiant ONDE de votre classe renseigné dans Opencomp est
 
 ### **Récupérer l'identifiant classe de ma classe dans ONDE**
 
-{% content-ref url="../../aide-onde-directeurs/recuperer-lid-onde-dune-classe.md" %}
-[recuperer-lid-onde-dune-classe.md](../../aide-onde-directeurs/recuperer-lid-onde-dune-classe.md)
-{% endcontent-ref %}
+{% page-ref page="../../aide-onde-directeurs/recuperer-lid-onde-dune-classe.md" %}
 
 ### Vérifier/modifier l'identifiant ONDE de ma classe dans Opencomp
 
-{% content-ref url="../../gerer-ma-classe-au-quotidien/modifier-lidentifiant-onde.md" %}
-[modifier-lidentifiant-onde.md](../../gerer-ma-classe-au-quotidien/modifier-lidentifiant-onde.md)
-{% endcontent-ref %}
+{% page-ref page="../../gerer-ma-classe-au-quotidien/modifier-lidentifiant-onde.md" %}
+
